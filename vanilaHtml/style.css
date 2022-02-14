@@ -1,0 +1,15 @@
+.main-title {
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 100px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 0;
+  line-height: 1;
+}
+
+.btn {
+  border: none;
+  background-color: white;
+  font-size: 17px;
+}
